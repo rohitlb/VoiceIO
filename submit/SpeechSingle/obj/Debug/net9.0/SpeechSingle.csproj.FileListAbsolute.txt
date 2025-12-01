@@ -1,0 +1,15 @@
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/bin/Debug/net9.0/SpeechSingle
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/bin/Debug/net9.0/SpeechSingle.deps.json
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/bin/Debug/net9.0/SpeechSingle.runtimeconfig.json
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/bin/Debug/net9.0/SpeechSingle.dll
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/bin/Debug/net9.0/SpeechSingle.pdb
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.AssemblyInfo.cs
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.sourcelink.json
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.dll
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/refint/SpeechSingle.dll
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.pdb
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/SpeechSingle.genruntimeconfig.cache
+/Users/macbook/Documents/GitHub/VoiceIO/submit/SpeechSingle/obj/Debug/net9.0/ref/SpeechSingle.dll
