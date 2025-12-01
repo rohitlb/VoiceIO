@@ -508,4 +508,12 @@ class SimpleCli
 
 //////////// Top-level runner ////////////
 
-return await SimpleCli.Run(Environment.GetCommandLineArgs().Skip(1).ToArray());
+//return await SimpleCli.Run(Environment.GetCommandLineArgs().Skip(1).ToArray());
+
+public class Program
+{
+    public static async Task Main(string[] args)
+    {
+        await SimpleCli.Run(args);
+    }
+}

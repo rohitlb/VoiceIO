@@ -1,0 +1,15 @@
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.AssemblyInfoInputs.cache
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.AssemblyInfo.cs
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.csproj.CoreCompileInputs.cache
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.sourcelink.json
+C:\Github\VoiceIO\submit\SpeechSingle\bin\Debug\net8.0\SpeechSingle.exe
+C:\Github\VoiceIO\submit\SpeechSingle\bin\Debug\net8.0\SpeechSingle.deps.json
+C:\Github\VoiceIO\submit\SpeechSingle\bin\Debug\net8.0\SpeechSingle.runtimeconfig.json
+C:\Github\VoiceIO\submit\SpeechSingle\bin\Debug\net8.0\SpeechSingle.dll
+C:\Github\VoiceIO\submit\SpeechSingle\bin\Debug\net8.0\SpeechSingle.pdb
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.dll
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\refint\SpeechSingle.dll
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.pdb
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\SpeechSingle.genruntimeconfig.cache
+C:\Github\VoiceIO\submit\SpeechSingle\obj\Debug\net8.0\ref\SpeechSingle.dll
